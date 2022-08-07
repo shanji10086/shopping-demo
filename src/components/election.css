@@ -1,0 +1,44 @@
+.election_list {
+  position: absolute;
+  top: 100px;
+  padding: 10rpx;
+}
+.election_item {
+  padding: 10rpx 0;
+  display: flex;
+}
+.election_img {
+  flex-grow: 1;
+  padding: 10rpx;
+}
+.eimage {
+  width: 300rpx;
+  height: 300rpx;
+}
+
+.election_info {
+  flex-grow: 2;
+  padding: 0 10rpx;
+}
+.election_name {
+  font-size: 30rpx;
+  color: #000;
+  padding: 10rpx 0;
+}
+
+.election_press {
+  padding: 10rpx 0;
+  font-size: 30rpx;
+}
+.election_where {
+  padding: 10rpx 0;
+  font-size: 30rpx;
+}
+.election_price {
+  padding: 10rpx 0;
+  font-size: 30rpx;
+}
+.election_gouwuche {
+  width: 187px;
+  height: 46px;
+}

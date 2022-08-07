@@ -1,0 +1,43 @@
+.album_list {
+  position: absolute;
+  top: 100px;
+  padding: 10rpx;
+}
+.album_item {
+  padding: 10rpx 0;
+  display: flex;
+}
+.album_img {
+  flex-grow: 1;
+  padding: 10rpx;
+}
+.vimage {
+  width: 300rpx;
+  height: 300rpx;
+}
+
+.album_info {
+  flex-grow: 2;
+  padding: 0 10rpx;
+}
+.album_name {
+  font-size: 30rpx;
+  color: #000;
+  padding: 10rpx 0;
+}
+.album_press {
+  padding: 10rpx 0;
+  font-size: 30rpx;
+}
+.album_where {
+  padding: 10rpx 0;
+  font-size: 30rpx;
+}
+.album_price {
+  padding: 10rpx 0;
+  font-size: 30rpx;
+}
+.album_gouwuche {
+  width: 187px;
+  height: 46px;
+}
